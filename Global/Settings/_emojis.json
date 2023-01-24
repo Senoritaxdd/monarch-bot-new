@@ -1,0 +1,62 @@
+{
+    "Iptal": "Iptal",
+    "Onay": "Onay",
+    "erkekTepkiID": "erkek",
+    "kadınTepkiID": "kadin",
+    "Tag": "rechosatag",
+    "chatSusturuldu": "chatMute",
+    "sesSusturuldu": "voiceMute",
+    "Cezalandırıldı": "Cezalandirildi",
+    "Yasaklandı": "Yasaklandi",
+    "sesMuteKaldırıldı": "unVoiceMute",
+    "chatMuteKaldırıldı": "unChatMute",
+    "Konfeti": "KonfetiGif",
+    "Icon": "rubyBit",
+    "uyeEmojiID": "uye",
+    "sarıYıldız": "sariYildiz",
+    "boostluNitro": "boostluNitro",
+    "klasikNitro": "klasikNitro",
+    "Netflix": "netflix",
+    "Spotify": "spotify",
+    "Exxen": "exxen",
+    "Youtube": "youtube",
+    "voiceDeaf": "voiceDeaf",
+    
+    "Numbers": {
+        "One": "bir",
+        "Two": "iki",
+        "Three": "uc",
+        "Four": "dort",
+        "Five": "bes",
+        "Six": "alti",
+        "Seven": "yedi",
+        "Eight": "sekiz",
+        "Nine": "dokuz",
+        "Zero": "sifir"
+    },
+
+    "Terfi": {
+        "başlangıçBar": "baslangicBar",
+        "başlamaBar": "baslamaBar",
+        "doluBar": "doluBar",
+        "doluBitişBar": "doluBitisBar",
+        "boşBar": "bosBar",
+        "boşBitişBar": "bosBitisBar",
+        "icon": "icon",
+        "miniicon": "miniicon"
+    },
+
+    "Görev": {
+        "OK": "tamamlandi",
+        "Sandık": "sandik",
+        "Taglı": "tagged",
+        "Para": "para",
+        "XP": "xp",
+        "Ses": "talking",
+        "Yetkili": "staff",
+        "Kek": "kekcookie",
+        "Mesaj": "chating",
+        "Altın": "Gold"
+    }
+
+}

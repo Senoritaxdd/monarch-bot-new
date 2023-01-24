@@ -1,0 +1,54 @@
+{
+    "SERVER": {
+        "ID": "904188905736253500",
+        "Name": ""
+    },
+
+    "TOKENS": {
+        "Requirements": "OTExNzIyNTEzNTY5MDI2MDY4.YZlhwg.9pvvjUt6adwgvbPJvxDKdLmamlQ",
+        "Statistics": "OTExNzIyNjM0OTczMTU1Mzg4.YZlh3w.5T1lWA0C7wx-3hOLmGoXUfkpyKA",
+        "Voucher": "ODkwMzA0MzY1MjYzNDY2NTc3.YUt2jQ.Es_eKE68IV5JSD_vUMRfU4HvCCM",
+
+        "SECURITY": {
+            "MAIN": "OTExNzIzMDMyNDEyODE5NDc2.YZliPQ.jtlZZLlIDb4CFxCeclHzNWAkwSk",
+            "SEC_ONE": "OTExNzIzMDMyNDEyODE5NDc2.YZliPQ.jtlZZLlIDb4CFxCeclHzNWAkwSk",
+            "SEC_TWO": "OTExNzIyNzM1NzExOTczNDQ2.YZlh9w.kjZcpdjXypVH2052Xd2gJs7sxEs",
+            "SEC_THREE": "OTExNzIyNjc1ODA4OTExNDYx.YZlh6A.-QPYprzm0ypAKhzCsYySzCU2gSg",
+            "SEC_FOUR": "OTExNzIyODE4MzEwMzg1NjY0.YZliCg.ufQTnVR0lXHw-FC_agCHEf99_0s",
+            "DISTS": [
+                "OTExNzIzMDgxNjEyMDA5NDky.YZliSQ.hmcI88dzvnZO9T_oAzFqaTEMoN0",
+                "OTExNzIzMTk4MzgxNDI4NzY3.YZliZQ.xl1upKxYeZ9U_vhJaoESA7qVnfA",
+                "OTE1NzQxMjk2ODU2MDM5NDI0.YagAig.nH-7qkQPUvAeblaN1G822L6s8cU",
+                "OTE1NzQxNzQyNjM1MDQwODA4.YagA9Q.jYBW21_3FZ2Qe7IEFOiOPQ3Ocf4",
+                "OTE1NzQyMjI0MjYyNzY2NjYy.YagBZw.PEi3a6xmOcG1U6-T--vILEGl894",
+                "OTE1NzQ0OTUwMDU3MDQ2MDI2.YagD8Q.8PnkXCZJfjlithO9Y_emQSdPkzk",
+                "OTE1NzQ1NTY5MDAyMDk0NjEy.YagEhQ.3mBPh-xzQiKHQSzPO9OyX63V8yI",
+                "OTE1NzQ1OTgxODU1ODM4Mjk4.YagE5w.vaTfsmR9-AnY4QXCFLG2LBeHv1E",
+                "OTE1NzQ2NTIzNTgzNzU0Mjcw.YagFaA.x6-oG_psZlgHxLexV6ks_EG1X4E",
+                "OTExNzIzMzI3MTM4MTkzNDA5.YZlihA.72YaH_bwK0tXk66nL0vq5xgRg5c"
+            ],
+            "GUILD_OWNER_TOKEN": ""
+        },
+
+        "WELCOME": {
+            "Active": false,
+            "WELCOMES": [],
+            "WELCOME_CHANNELS": []
+        }
+    },
+    "botSettings": {
+        "Prefixs": [".","+","!","/","-"]
+    },
+
+    "botStatus": {
+        "Status": "dnd",
+        "Name": "† Monârch Creatéd by ΛCΛR",
+        "voiceChannelID": "911769039376879716"
+    },
+    "Database" : {
+        "Active": true,
+        "MongoURL": "mongodb://127.0.0.1/rechosa"
+    }
+
+}
+
